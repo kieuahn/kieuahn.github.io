@@ -1,0 +1,8 @@
+h1 {
+    {font-size: 38px;
+        text-align: center;
+        color: var(--makeitgreen,orange);
+        font-style: times;
+        text-transform:  capitalize;
+        background-color: yellow ;
+    }
