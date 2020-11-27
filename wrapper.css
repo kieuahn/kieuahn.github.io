@@ -6,7 +6,12 @@ nav {
 }
 body { background-color: rgb(0,0,0);}
 
-img { }
+img {size: 20px;
+    width: 100px;
+    height: 100px;
+    margin: 0 100 50 100;
+}
+
 ul{
 
 }
