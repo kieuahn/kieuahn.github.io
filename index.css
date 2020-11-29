@@ -8,9 +8,23 @@ h1 {
         margin: 0px;
     }
 p{ line-height: 50px;
-    font-size:  20px;
+    font-size:  18px;
+    color: whitesmoke !important;
     margin: 20px 40px 10px 40px; 
 }
 .italic {
     font-style: italic;
+  }
+
+  h2 {font-size: 22px;
+    text-align: left;
+    color: var(--makeitgreen,orange);
+    font-style: times;
+    text-transform:  capitalize;
+
+  }
+
+}
+  .whitefont {
+      color: white;
   }
