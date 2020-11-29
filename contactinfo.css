@@ -1,0 +1,20 @@
+* { padding: 0 60px auto;}
+
+p form {color: white;
+font-size: 18px;
+line-heignt: 20px;
+font-family: fantasy;
+}
+
+h2 { text-align:left;
+color: var(--makethetextpurple)}
+[type='radio'] {margin: 10px 20px 10px 30px;}
+[foo='bax'] {color:blue;}
+
+.orange-text {color: #ffa500}
+.pink-text {color: ##ffb3b3}
+
+h2{
+--makethetextpurple: purple;}
+
+h3 {color: white; }
