@@ -1,5 +1,5 @@
 .u-section-1 {
-  background-image: url("//images03.nicepage.io/a29ad372998b26bcf47bbf6a/b3fbd2dde5c855b081063a5c/technology-motherboard-in-black-and-white-paul-ward.jpg");
+  background-image: url("images/57e2d6454f55a414f6da8c7dda79367d1d38d6ed5b586c48732f73d19348c350bf_1280.jpg");
   background-position: 50% 50%;
 }
 
@@ -70,7 +70,7 @@
 .u-section-2 .u-text-1 {
   font-weight: 700;
   font-size: 3rem;
-  margin: 286px auto 0 0;
+  margin: 286px 238px 0 0;
 }
 
 .u-section-2 .u-text-2 {
@@ -141,6 +141,7 @@
   }
 
   .u-section-2 .u-text-1 {
+    margin-right: 108px;
     font-size: 2.25rem;
   }
 
@@ -180,6 +181,10 @@
 
   .u-section-2 .u-container-layout-1 {
     padding-left: 30px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 15px;
   }
 
   .u-section-2 .u-text-2 {
@@ -337,7 +342,7 @@
 
 .u-section-3 .u-text-7 {
   font-family: Anton;
-  margin: -13px auto 0 30px;
+  margin: -13px 94px 0 30px;
 }
 
 .u-section-3 .u-text-8 {
@@ -419,6 +424,7 @@
   }
 
   .u-section-3 .u-text-7 {
+    margin-right: 49px;
     margin-left: 24px;
   }
 
@@ -482,6 +488,7 @@
   }
 
   .u-section-3 .u-text-7 {
+    margin-right: 0;
     margin-left: 18px;
   }
 
@@ -569,7 +576,7 @@
 .u-section-4 .u-text-1 {
   font-weight: 700;
   font-size: 3rem;
-  margin: 286px auto 0 0;
+  margin: 286px 170px 0 0;
 }
 
 .u-section-4 .u-text-2 {
@@ -640,6 +647,7 @@
   }
 
   .u-section-4 .u-text-1 {
+    margin-right: 40px;
     font-size: 2.25rem;
   }
 
@@ -682,6 +690,10 @@
     padding-left: 30px;
   }
 
+  .u-section-4 .u-text-1 {
+    margin-right: 0;
+  }
+
   .u-section-4 .u-text-2 {
     margin-right: 0;
   }
@@ -715,10 +727,6 @@
   .u-section-4 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
-  }
-
-  .u-section-4 .u-text-1 {
-    margin-right: 0;
   }
 
   .u-section-4 .u-container-layout-2 {
@@ -1186,7 +1194,7 @@
 .u-section-7 .u-text-1 {
   font-weight: 700;
   font-size: 3rem;
-  margin: 208px auto 0 0;
+  margin: 208px 482px 0 0;
 }
 
 .u-section-7 .u-text-2 {
@@ -1252,6 +1260,7 @@
   }
 
   .u-section-7 .u-text-1 {
+    margin-right: 352px;
     font-size: 2.25rem;
   }
 
@@ -1291,6 +1300,10 @@
 
   .u-section-7 .u-container-layout-1 {
     padding-left: 30px;
+  }
+
+  .u-section-7 .u-text-1 {
+    margin-right: 259px;
   }
 
   .u-section-7 .u-text-2 {
