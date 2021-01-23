@@ -1,5 +1,5 @@
 .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/CAMBIEGARDENSCONRADBROWN.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/b5261df2-78f4-4c85-9b63-516ce751a6b6.png");
   background-position: 50% 50%;
 }
 
@@ -25,13 +25,13 @@
 
 .u-section-1 .u-text-2 {
   font-style: italic;
-  margin: 30px 0 0;
+  margin: 35px 0 0;
 }
 
 .u-section-1 .u-btn-1 {
   background-image: none;
   border-style: solid;
-  margin: 30px auto 0 0;
+  margin: 25px auto 0 0;
 }
 
 .u-section-1 .u-btn-2 {
@@ -185,7 +185,7 @@
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 30px;
+    margin-top: 25px;
     margin-right: 70px;
   }
 
@@ -198,29 +198,30 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 448px;
+  min-height: 295px;
 }
 
 .u-section-2 .u-layout-wrap-1 {
-  margin: 60px auto 60px 0;
+  margin-top: 60px;
+  margin-bottom: 40px;
 }
 
 .u-section-2 .u-layout-cell-1 {
-  min-height: 325px;
+  min-height: 195px;
 }
 
 .u-section-2 .u-container-layout-1 {
-  padding: 30px 60px;
+  padding: 30px 60px 25px;
 }
 
 .u-section-2 .u-text-1 {
-  position: relative;
   line-height: 2;
+  font-size: 0.875rem;
   margin: 0;
 }
 
 .u-section-2 .u-layout-cell-2 {
-  min-height: 325px;
+  min-height: 195px;
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -228,14 +229,12 @@
 }
 
 .u-section-2 .u-text-2 {
-  position: relative;
-  font-style: normal;
-  text-decoration: underline !important;
-  font-weight: 700;
-  line-height: 1.6;
-  letter-spacing: 0;
-  font-size: 1.125rem;
-  margin: 0;
+  font-size: 0.875rem;
+  margin: 0 -30px 0 -14px;
+}
+
+.u-section-2 .u-btn-1 {
+  padding: 0;
 }
 
 @media (max-width: 1199px) {
@@ -243,22 +242,32 @@
     min-height: 391px;
   }
 
-  .u-section-2 .u-layout-wrap-1 {
-    margin-right: initial;
-    margin-left: initial;
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 161px;
   }
 
-  .u-section-2 .u-layout-cell-1 {
-    min-height: 268px;
+  .u-section-2 .u-text-1 {
+    position: relative;
   }
 
   .u-section-2 .u-layout-cell-2 {
-    min-height: 268px;
+    min-height: 161px;
   }
 
   .u-section-2 .u-container-layout-2 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-2 {
+    position: relative;
+    font-style: normal;
+    text-decoration: none solid rgb(255, 255, 255);
+    font-weight: normal;
+    line-height: 22.4px;
+    letter-spacing: normal;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
